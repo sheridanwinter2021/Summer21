@@ -10,8 +10,8 @@ import java.util.Scanner;
 /**
  *
  * @author sivagamasrinivasan
- * date 
- */
+date:
+*/
 public class CardGame {
 
     /**
